@@ -1,3 +1,4 @@
+# for inverters with V2 SW -IDs 0-60 or maybe 0-150
 import socket
 import time
 import config
